@@ -7,6 +7,10 @@
 }
 /* end variavles */
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* start component */
 .services{
     padding-top: var(--section-padding);
